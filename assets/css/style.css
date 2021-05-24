@@ -1,3 +1,8 @@
 * {
     font-family: 'Poppins', sans-serif;
 }
+
+.bg-image {
+    background-position: center;
+    background-size: cover;
+}
